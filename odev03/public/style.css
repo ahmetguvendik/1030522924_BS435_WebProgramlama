@@ -1,0 +1,24 @@
+html,body
+{
+    margin:0px;background-color:rgb(240,240,240);color:rgb(71,53,25);text-align:center;font-size:1.2em;
+}
+
+.kart
+{
+    margin:20px;
+    width: 250px;
+    height: 350px;
+    border:2px solidblack;
+    border-radius:15px;
+    cursor:pointer;
+    background-color:red;
+    
+}
+.mesaj
+{
+    background-color:green;color:black;
+}
+    
+.link{
+        color:blue;cursor:pointer;text-decoration:underline;
+}
